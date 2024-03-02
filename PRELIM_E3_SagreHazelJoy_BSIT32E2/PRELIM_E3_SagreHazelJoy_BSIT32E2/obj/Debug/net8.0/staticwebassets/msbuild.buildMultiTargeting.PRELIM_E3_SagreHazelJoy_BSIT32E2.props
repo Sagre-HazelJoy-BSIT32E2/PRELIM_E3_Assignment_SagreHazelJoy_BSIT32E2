@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PRELIM_E3_SagreHazelJoy_BSIT32E2.props" />
+</Project>
